@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Zone
 
 Food Zone UI is a user interface project aimed at providing a visually appealing and user-friendly front end for a food-related application. It incorporates various technologies such as React.js, Tailwind CSS, and Redux Toolkit to create a seamless and interactive experience for users.
@@ -110,3 +111,7 @@ Special thanks to the creators and contributors of React.js, Tailwind CSS, and R
 - [javascript Learning](https://github.com/mohitmaithanii/JavaScript-Learning)
 - [javascript Beginner Projects](https://github.com/mohitmaithanii/Beginner-Javascript-Projects)
 - [react Learning](https://github.com/mohitmaithanii/React-Learning)
+=======
+# food-Ordering-Website-Frontend-
+The Food Ordering Website is a responsive web application designed to provide users with a convenient and efficient way to browse food items and place orders online. The platform allows users to view menus, select food items, add them to the cart, and simulate the ordering process through an interactive and user-friendly interface.
+>>>>>>> 0a813f246efa6f41ee517338740e4f4fc6a435f7
